@@ -1,6 +1,3 @@
-# Website link
-https://tour-travel.netlify.app/
-
 
 # Tour-Travels
 
